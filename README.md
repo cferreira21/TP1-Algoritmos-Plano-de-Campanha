@@ -72,3 +72,12 @@ correspondente e também o seu inverso, que são utilizados em cada um dos
 passos do Kosaraju. Por fim, é verificada a qual componente cada
 variável e a sua negativa pertencem e retornado “nao” na saída padrão se
 para algum deles for igual, ou “sim” caso contrário.</p>
+
+## Entrada
+O programa recebe um arquivo de texto com os seguintes atributos:
+- Uma linha com dois inteiros indicando a quantidade de eleitores e de propostas, respectivamente
+- Uma linha para cada eleitor, representando seus votos com inteiros
+- O final da leitura e do arquivo é definido pela entrada "0 0"
+
+## Execução
+Utilize o comando "make all" para gerar o executável "tp01" e rode-o com o nome do arquivo de entrada como argumento.

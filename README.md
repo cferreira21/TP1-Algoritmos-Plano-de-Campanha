@@ -1,6 +1,6 @@
 # Trabalho prático 1 - Plano de Campanha
 ## Algoritmos 1
-<p><strong>Nome:</strong> Carlos Ferreira dos Santos Junior</p>
+
 
 ## O problema
 <p>Para definir o seu plano de campanha, o deputado federal Alan Turing
